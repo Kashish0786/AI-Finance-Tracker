@@ -88,6 +88,7 @@ export default function About() {
             you want.
           </p>
         </div>
+        
       </div>
     </div>
   );

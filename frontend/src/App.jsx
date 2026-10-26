@@ -1,21 +1,4 @@
-// import { Routes, Route } from "react-router-dom";
-// import Home from "./pages/Home";
-// import Signup from "./authpages/Signup";
-// import Login from "./authpages/Login";
-// import Navbar from "./pages/Navbar";
-// function App() {
-//   return (
-//     <Routes>
-//       <Route path="/" element={<Home />} />
-//       <Route path="/signup" element={<Signup />} />
-//       <Route path="/login" element={<Login />} />
-//       <Route path="/navbar" element={<Navbar />} />
-//       {/* <Route path="/signup" element={<Signup />} /> */}
-//     </Routes>
-//   );
-// }
 
-// export default App;
 
 import { Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";

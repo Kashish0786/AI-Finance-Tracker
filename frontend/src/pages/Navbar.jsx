@@ -34,14 +34,14 @@ const centerLinks = [
 
 const appLinks = [
   { to: "/dashboard", label: "Dashboard", icon: LayoutDashboard },
-  { to: "/streak", label: "Daily Streak", icon: Flame },
+  // { to: "/streak", label: "Daily Streak", icon: Flame },
   { to: "/goals", label: "Goals", icon: Target },
   { to: "/subscriptions", label: "Subscriptions", icon: RefreshCcw },
   { to: "/expenses", label: "Expenses", icon: Receipt },
    { to: "/emi", label: "EMI Tracker", icon: CreditCard },
-  { to: "/analytics", label: "Analytics", icon: BarChart3 },
-  { to: "/coach", label: "AI Coach", icon: Sparkles },
-  { to: "/achievements", label: "Achievements", icon: Trophy },
+  // { to: "/analytics", label: "Analytics", icon: BarChart3 },
+  // { to: "/coach", label: "AI Coach", icon: Sparkles },
+  // { to: "/achievements", label: "Achievements", icon: Trophy },
   { to: "/profile", label: "Profile", icon: User },
   { to: "/settings", label: "Settings", icon: Settings },
 ];
